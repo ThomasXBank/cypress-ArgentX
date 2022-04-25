@@ -1,0 +1,2 @@
+# cypress-ArgentX
+ plugin ArgentX
