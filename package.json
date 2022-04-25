@@ -1,0 +1,13 @@
+{
+  "name": "cypress-argentx",
+  "version": "1.0.0",
+  "description": "plugin for ArgentX",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": "https://github.com/ThomasXBank/cypress-ArgentX.git"
+  ,
+  "author": "",
+  "license": "MIT"
+}
